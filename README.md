@@ -14,4 +14,4 @@ are live; the retail storefront is currently in development.
 
 ## Tools
 
-Python · Django · PostgreSQL/SQLite · Linux · nginx · systemd · Neovim · tmux
+Python · Django · Linux · nginx · systemd · Neovim · tmux
