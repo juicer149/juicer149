@@ -9,7 +9,7 @@ Building [SwedeSweets](https://github.com/juicer149/swedesweets), an order and o
 **Projects**
 
 - [swedesweets](https://github.com/juicer149/swedesweets) – Django commerce and operations system for a candy wholesaler, in production
-- [curate](https://github.com/juicer149/curate) – code and docs as nested scopes; a tree-sitter core with Neovim folding
+- [curate](https://github.com/juicer149/curate) – structure-aware folding and navigation for Neovim, on a language-agnostic tree-sitter core
 - [securitykit](https://github.com/juicer149/securitykit) – one password-hashing API over Argon2, bcrypt, scrypt and PBKDF2, with pepper and rehash-on-login
 - [Architech](https://github.com/juicer149/Architech) – experimental Python DSL for attribute validation pipelines
 - [guestbook](https://github.com/juicer149/guestbook) – Django guestbook self-hosted on a Raspberry Pi 5
