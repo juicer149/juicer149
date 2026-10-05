@@ -16,4 +16,4 @@ Building [SwedeSweets](https://github.com/juicer149/swedesweets), an order and o
 
 **Tools**
 
-Python · Django · PostgreSQL · Linux · nginx · systemd · Neovim · tmux
+Python · Django · Linux · nginx · systemd · Neovim · tmux
